@@ -9,8 +9,6 @@ This challenge was hosted on Hackerearth.
 Link : https://assessment.hackerearth.com/challenges/hiring/amazon-ml-engineer-hiring-challenge/
 
 
-
-
 # Score Obtained on Test Set:
 
 ## 92.04+ Accuracy
