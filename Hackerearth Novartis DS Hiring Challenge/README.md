@@ -1,7 +1,6 @@
-# Data-Science-Hackathons-Competitions
+# Novartis Data Science Hiring Challenge 
+### Accuracy: 98%+
 
-## LeaderBoard - In Top 10% 
-### Public LB: 86th rank
-### Private LB:89th rank
-[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/leaderboard/]
 
+
+Link to competition page: [Link](https://assessment.hackerearth.com/challenges/hiring/novartis-data-science-hiring-challenge/)
