@@ -1,7 +1,6 @@
 # Data-Science-Hackathons-Competitions
 
-## LeaderBoard - In Top 10% 
-### Public LB: 86th rank
-### Private LB:89th rank
-[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/leaderboard/]
+## LeaderBoard - In Top 12% 
+### Private LB:655 rank
+[Link to LeaderBoard](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/)
 
